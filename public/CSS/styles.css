@@ -1,0 +1,63 @@
+/* #region base */
+/* #endregion base */
+
+/* #region layout */
+
+/* #region nav */
+/* #endregion nav */
+
+/* #region main */
+/* #endregion main */
+
+/* #region footer */
+/* #endregion footer */
+
+/* #endregion layout */
+
+/* #region modules */
+/* #endregion modules */
+
+/* #region media queries */
+@media only screen and (min-device-width: 768px) {
+  /* #region base */
+  /* #endregion base */
+
+  /* #region layout */
+
+  /* #region nav */
+  /* #endregion nav */
+
+  /* #region main */
+  /* #endregion main */
+
+  /* #region footer */
+  /* #endregion footer */
+
+  /* #endregion layout */
+
+  /* #region modules */
+  /* #endregion modules */
+}
+
+@media only screen and (min-device-width: 1024px) {
+  /* #region base */
+  /* #endregion base */
+
+  /* #region layout */
+
+  /* #region nav */
+  /* #endregion nav */
+
+  /* #region main */
+  /* #endregion main */
+
+  /* #region footer */
+  /* #endregion footer */
+
+  /* #endregion layout */
+
+  /* #region modules */
+  /* #endregion modules */
+}
+
+/* #endregion media queries */
