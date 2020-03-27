@@ -47,7 +47,7 @@ If there are dependencies
 
 - Github: [@AlfredoElizarraras](https://github.com/AlfredoElizarraras)
 - Twitter: [@OscarAlfredoGm4](https://twitter.com/OscarAlfredoGm4)
-- Linkedin: [@OscarAlfredoGómezElizarrarás](https://mx.linkedin.com/in/oscar-alfredo-gomez-elizarraras-999589186)
+- Linkedin: [@OscarAlfredoGómezElizarrarás](https://mx.linkedin.com/in/oscar-alfredo-gomez-elizarraras)
 
 ---
 
